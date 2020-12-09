@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/His
 
 <p align="center">
-<h2 align="center">Tools and Technologies</h2></p>
+<h2 align="center">Languages and Tools</h2></p>
 
 <p align="center"> <a target="_blank"> <img align="middle" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a <a target="_blank"> <img align="middle" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="30" height="30"/> </a> 
 <a  target="_blank"> <img align="middle" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
