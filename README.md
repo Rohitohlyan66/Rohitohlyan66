@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on Youtube.
 - 💬 Let's talk and work on an App.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/code2develop),[Youtube](https://www.youtube.com/channel/UC63I2ZUbKkeQRXqnyB0BOQA?view_as=subscriber)
-- 😄 Pronouns: He/His
 
 
 
