@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on Android Apps.
 - 🌱 I’m currently learning Kotlin.
-- 👯 I’m looking to collaborate on Youtube.
 - 💬 Let's talk and work on an App.
 
 
